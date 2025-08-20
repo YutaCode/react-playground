@@ -1,4 +1,6 @@
-import React from 'react';
+// import React from 'react';
+// ↑は最新のreactでは書く必要がなくなった
+
 
 // JSXの基礎文法①
 // return の中身が JSX の構文
