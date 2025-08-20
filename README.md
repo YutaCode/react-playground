@@ -6,3 +6,4 @@ React playground — Reactの学習用プレイグラウンド（動画やチュ
 
 ## Study log
 - 2025-08-20 Lesson 01: Reactの基本概念の確認（コンポーネント、UIライブラリ、仮想DOM、etc...）
+- 2025-08-20 Lesson 02: JSXの基礎文法の理解
