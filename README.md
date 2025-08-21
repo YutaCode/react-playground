@@ -20,3 +20,4 @@ React playground — Reactの学習用プレイグラウンド（動画やチュ
     (一言memo) 更新前のstateを利用するときはprevStateを使う！
 - 2025-08-21 Lesson 08: ライフサイクルと副作用  
     (一言memo) useEffectを使うことでレンダリング後に処理をフックできる！
+- 2025-08-21 Lesson 09: useEffect内でAPIを取得する
