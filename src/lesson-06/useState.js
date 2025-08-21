@@ -1,3 +1,5 @@
+import { useState } from 'react'
+
 // useStateの使い方 (実行不可)
 
 // useStateによるstateの宣言
